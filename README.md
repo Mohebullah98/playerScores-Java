@@ -4,7 +4,7 @@ Given an array input with players and each time they score, return the top k pla
 If two players have the same score, return the one who is lexographically less, (alphabetical order).
 
 
-Given a non-empty list of playerScoes, return the top k players.
+Given a non-empty list of playerScores, return the top k players.
 
 Your answer should be sorted by player ranking. If two players have the same score, then the player with lexographically smaller name is ranked higher.
 
